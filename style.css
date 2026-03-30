@@ -2,6 +2,18 @@ body{
   background-color: rgb(157, 236, 170);
 }
 
+p{
+  color: aquamarine;
+}
+
+#main-heading {
+  color:blueviolet;
+}
+
+.note{
+  background: yellow; 
+}
+
 li{
   font-style: italic;
 }
